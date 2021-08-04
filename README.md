@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshugour&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshugour" /> </p>
-
 - 🔭 I’m currently working on [TrackYT](https://trackyt.in/)
 
 <h3 align="left">Connect with me:</h3>
