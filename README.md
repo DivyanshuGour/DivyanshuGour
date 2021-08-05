@@ -8,7 +8,7 @@
 <a href="https://twitter.com/y0ur_wellwisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="y0ur_wellwisher" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/divyanshu-gour-a6b130200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-gour-a6b130200" height="30" width="40" /></a>
 <a href="https://instagram.com/y0ur_wellwisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y0ur_wellwisher" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucmjsfo1oo_scwzptcttkaoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmjsfo1oo_scwzptcttkaoq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucmjsfo1oo_scwzptcttkaoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucmjsfo1oo_scwzptcttkaoq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
