@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
-🔭 I’m currently working on [TrackYT](https://trackyt.in/ "TrackYT"), [Hide My Web](https://hidemyweb.wordpress.com/ "Hide My Web")
+🔭 I’m currently working on Micro SAAS Projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
