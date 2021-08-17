@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
-#### 🔭 I’m currently working on Micro SAAS Projects
+#### 🔭 Working on Micro SAAS Projects
 
 #### 👨🏾‍💻 I’m currently learning Python
 
