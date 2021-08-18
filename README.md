@@ -1,5 +1,6 @@
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHDqqy7PBNZ-Q/profile-displaybackgroundimage-shrink_200_800/0/1629188517399?e=1634774400&v=beta&t=0n_ObAWv2QhxMU_aQWMqo8Yqk7i8zUUzTKeBP_VNfAI" alt="Divyanshu Gour" style=""/> 
 
+
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
