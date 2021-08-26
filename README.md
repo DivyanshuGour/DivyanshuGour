@@ -7,6 +7,7 @@
 
 #### 👨🏾‍💻 I’m currently learning Python
 
+
 #### 🧑🏾 Pronouns: he/him
 
 <h3 align="left">Connect with me:</h3>
