@@ -1,4 +1,4 @@
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHNbVTexVhoDg/profile-displaybackgroundimage-shrink_200_800/0/1636554995918?e=1642032000&v=beta&t=9EoRAQn6s3_SM2wWaTMv3lbBAiBUxxsfYglQUChpN-8" alt="Divyanshu Gour" style=""/> 
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHNbVTexVhoDg/profile-displaybackgroundimage-shrink_200_800/0/1636554995918?e=1647475200&v=beta&t=T0ECTdHIDtqQpH5X3LJeIv1es3oM9W87KVUTbNtsSvk" alt="Divyanshu Gour" style=""/> 
 
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
