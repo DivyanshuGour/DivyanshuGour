@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
-#### 🔭 Working on Micro SAAS Projects
+#### 🔭 Competative Programmer
 
-#### 👨🏾‍💻 I’m currently learning Python
+#### 👨🏾‍💻 Data Structures and Algorithm 
 
 
 #### 🧑🏾 Pronouns: he/him
