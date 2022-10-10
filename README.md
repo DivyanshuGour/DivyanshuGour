@@ -1,5 +1,5 @@
-<img width="100%" src="https://holopin.io/api/user/board?user=divyanshugour)](https://holopin.io/@divyanshugour" alt="Divyanshu Gour" style=""/> 
-
+<!-- <img width="100%" src="https://holopin.io/api/user/board?user=divyanshugour)](https://holopin.io/@divyanshugour" alt="Divyanshu Gour" style=""/>  -->
+[![@divyanshugour's Holopin board](https://holopin.io/api/user/board?user=divyanshugour)](https://holopin.io/@divyanshugour)
 <h1 align="center">Hi 👋, I'm Divyanshu Gour</h1>
 <h3 align="center">A Tech Enthusiast 🤟</h3>
 
