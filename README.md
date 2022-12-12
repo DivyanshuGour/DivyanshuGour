@@ -13,9 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/y0ur_wellwisher" target="blank"><img align="center" src="https://img.icons8.com/color/512/twitter.png" alt="y0ur_wellwisher" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshu-gour-a6b130200" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-circled.png" alt="divyanshu-gour-a6b130200" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/divyanshu-gour-a6b130200" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-circled.png" alt="divyanshu-gour-a6b130200"  alt="y0ur_wellwisher"  height="40" width="40" /></a>
 <a href="https://instagram.com/y0ur_wellwisher" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="y0ur_wellwisher" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCmjsFO1oo_sCWzpTcTTkAoQ" target="blank"><img align="center" src="https://img.icons8.com/color/512/youtube-play.png" alt="ucmjsfo1oo_scwzptcttkaoq" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmjsFO1oo_sCWzpTcTTkAoQ" target="blank"><img align="center" src="https://img.icons8.com/color/512/youtube-play.png" alt="ucmjsfo1oo_scwzptcttkaoq"  alt="y0ur_wellwisher"  height="40" width="40" /></a>
+<a href="https://linktr.ee/y0ur_wellwisher" target="blank"><img align="center" src="https://img.icons8.com/color/512/linktree.png"   alt="y0ur_wellwisher" height="40" width="40" /></a>
 </p>
 
 
